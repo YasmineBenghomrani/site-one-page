@@ -98,6 +98,7 @@ input {
 }
 .cont-company p {
   color: rgb(150, 147, 147);
+  font-size: 12px;
 }
 .cont-company h1 {
   font-size: 19px;
@@ -139,6 +140,7 @@ input {
 }
 .icon-text p {
   color: rgb(150, 147, 147);
+  font-size: 12px;
   width: 30vw;
 }
 
@@ -193,7 +195,7 @@ input {
 .content-service {
   display: flex;
   padding: 25px;
-  gap: 24px;
+  gap: 40px;
 }
 .items-service {
   width: 250px;
